@@ -1,2 +1,4 @@
 
 New changes made to the archive.
+
+Changes in the author email and in de -m message editor
